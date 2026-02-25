@@ -44,10 +44,6 @@ Output: 5 similar recommended movies
 - [ ] Add hybrid recommendation approach
 - [ ] Include user ratings feedback loop
 
-## 📝 License
-
-Add your license information here
-
 ## 👤 Author
 
 Palak44
